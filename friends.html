@@ -10,6 +10,7 @@
     <title>friends</title>
     <link rel="stylesheet" href="/src/css/index.css">
     <link rel="stylesheet" href="/src/css/friends.css">
+    <script src="https://cdn.jsdelivr.net/gh/lumilovesyou/Gleebus-Webring@main/webring.js"></script>
 </head>
 <body>
     <header class="pfp">
@@ -20,6 +21,15 @@
             <span class="pfp-brand"></span>
             
             <h2 class="typing">>_Friends</h2><span class="cursor">__</span>
+        </div>
+        <div class="webring">
+            <a href="https://1crizer.dingusblingus.cc" target="_blank"><img src="https://crizer.dingusblingus.cc/images/88x31.png" alt="crizer"></a>
+            <a href="https://lumiverse.dev/" target="_blank"><img src="https://lumiverse.dev/assets/88x31/mine/lumi-88x31.gif" alt="lumi"></a>
+            <a href="https://dev-site.homecamp.biz/" target="_blank"><img src="https://crizer.dingusblingus.cc/images/qd8jh44.gif" alt="dev-site"></a>
+            <a href="https://schlumbis.dev/" target="_blank"><img src="https://schlumbis.dev/src/img/gaia.gif" alt="schlumbis"></a>
+            <button onclick="gleebusOpen(-1)">Previous</button>
+            Gleebus Webring
+            <button onclick="gleebusOpen(1)">next</button>
         </div>
         <div class="links">
             <a href="https://www.albumoftheyear.org/user/zxrkcr/" target="_blank"> <img src="/src/favicon/AOTY.jpg" class="AOTY"></a>
@@ -41,7 +51,16 @@
                 <h2>kaptainquake</h2>
                 <a href="https://guns.lol/kptnquake" target="_blank"><img src="/src/img/quake.png" class="friends" style="width: 450px;"></a>
             </div>
+            <div>
+                <h2>crizer</h2>
+                <a href="https://crizer.dingusblingus.cc/" target="_blank"><img src="/src/img/crizer.gif" class="friends" style="width: 450px;"></a>
+            </div>
         </div> 
+        <div class="box" style="width: 800px; justify-content: center; margin: 50px auto;">
+            <h2>Visitors!</h2>
+            <div id="c_widget" style="overflow-y: auto; height: 500px"></div>
+            <script src="/src/js/comment-widget.js"></script>
+        </div>
     </div>
     <script src="/src/js/typing.js"></script>
 </body>

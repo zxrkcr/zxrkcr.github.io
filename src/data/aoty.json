@@ -4,48 +4,56 @@
     "avatar": "/src/data/img/avatar.jpg"
   },
   "latest": {
-    "artist": "quakefarmer, shoerice//ricefarmer & hydra.",
-    "album": "Riceman",
-    "rating": "100",
-    "review": "hydra hydra hydra hydra \ud83d\udc33\ud83d\udc33\ud83e\udd75",
+    "artist": "prettifun",
+    "album": "Pretti Loves U 2",
+    "rating": "80",
+    "review": "I just want to hate on @syxxru, but flip you mane, ts good",
     "cover": "/src/data/img/latest-cover.jpg",
-    "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1856872-riceman/",
-    "date": "06 Jun 2026 01:53:08 GMT"
+    "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1744783-pretti-loves-u-2/",
+    "date": "21 Aug 2026 13:30:36 GMT"
   },
   "reviews": [
     {
-      "artist": "quakefarmer, shoerice//ricefarmer & hydra.",
-      "album": "Riceman",
-      "rating": "100",
-      "review": "hydra hydra hydra hydra \ud83d\udc33\ud83d\udc33\ud83e\udd75",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "rating": "80",
+      "review": "I just want to hate on @syxxru, but flip you mane, ts good",
       "cover": "/src/data/img/latest-cover.jpg",
-      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1856872-riceman/",
-      "date": "06 Jun 2026 01:53:08 GMT"
+      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1744783-pretti-loves-u-2/",
+      "date": "21 Aug 2026 13:30:36 GMT"
     },
     {
-      "artist": "quakefarmer, shoerice//ricefarmer & hydra.",
-      "album": "I Hate You (Romri Diss)",
-      "rating": "100",
-      "review": "OMFG my soundcloud is tweaking but I just KNOW hydra making it out the streets with this one \ud83e\udd17\ud83e\udd79",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "rating": "90",
+      "review": "C please",
       "cover": "",
-      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1854522-i-hate-you-romri-diss/",
-      "date": "06 Jun 2026 01:50:50 GMT"
+      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1980595-speed-demon-whitehorsemannequin/",
+      "date": "20 Aug 2026 16:23:54 GMT"
     },
     {
-      "artist": "Bacleo",
-      "album": "Lorana.mze",
-      "rating": "75",
-      "review": "most track are just repetitive and bland\nfav: goodbye, labyrinth, 2bad",
+      "artist": "Egobreak",
+      "album": "the Haunted",
+      "rating": "95",
+      "review": "broooo this is soooo  good I pray he performs a bit when i go to slayr concert this shit is GAS",
       "cover": "",
-      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/535438-loranamze/",
-      "date": "04 Jun 2026 03:58:45 GMT"
+      "url": "https://www.albumoftheyear.org/user/zxrkcr/album/1802191-the-haunted/",
+      "date": "06 Aug 2026 17:51:25 GMT"
     }
   ],
   "stats": {
-    "reviews": 66,
-    "ratings": 82,
-    "followers": 11,
+    "reviews": 70,
+    "ratings": 87,
+    "followers": 13,
     "perfect": [
+      {
+        "artist": "quakefarmer",
+        "album": "Jishin N\u014dka"
+      },
+      {
+        "artist": "ILYricey",
+        "album": "The Romri Files"
+      },
       {
         "artist": "lostrushi",
         "album": "SISTERHOOD"

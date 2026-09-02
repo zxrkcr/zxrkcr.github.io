@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;    /* Explicit height allows for vertical centering */
+  margin: 0;       /* Removes default browser spacing */
+}
+
 @font-face {
     font-family: 'Chocho Aura';
     src: url('/src/data/fonts/ChochoAuraDemo-Regular.woff2') format('woff2'),

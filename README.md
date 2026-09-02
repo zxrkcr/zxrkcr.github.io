@@ -17,7 +17,7 @@ I want a personal space that I can share with friends, experiment with, and pote
 ADDED:
 
 - /AOTY -- I use this unofficial [AlbumOfTheYearAPI](https://github.com/JahsiasWhite/AlbumOfTheYearAPI) using their user.py by creating a script to use it, convert to json, and then redirect to `src/data/aoty.json`. All done with a cronjob to pull data every 20 minutes and display
-- A sort of collage too show off some albums I actively listen too and like in the homepage which uses the [color-thief](https://lokeshdhakar.com/projects/color-thief/) library
+- A sort of collage too show off some albums I actively listen too and like in the homepage which uses the [color-thief](https://lokeshdhakar.com/projects/color-thief/) library to show a colored border based on the prominent colors on each image.
 - Added 2 new endpoints about me & friends
 
 # Directory layout
