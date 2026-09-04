@@ -12,13 +12,12 @@
     <title>ebk music</title>
     <link rel="stylesheet" href="/src/css/index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
-    <link rel="stylesheet" href="/src/css/music-page.css">
+    <link rel="stylesheet" href="/src/css/music-page.css?v=20260904">
     <script src="https://cdn.jsdelivr.net/gh/lumilovesyou/Gleebus-Webring@main/webring.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" defer></script>
-    <script src="/src/js/musicMenu.js" defer></script>
+    <script src="/src/js/musicMenu.js?v=20260904" defer></script>
 </head>
 <body>
     <header class="pfp">
@@ -49,32 +48,38 @@
 
     <div class="music-menu">
         <div class="screen active" id="landing">
+            <div class="cover-scatter" id="coverScatter"></div>
             <div class="logo" id="logoText"></div>
-            <lottie-player class="lottie-accent" autoplay loop mode="normal"
-                src="https://assets2.lottiefiles.com/packages/lf20_touohxv0.json"></lottie-player>
-            <button class="start-btn" id="startBtn">START</button>
+            <button class="start-btn" id="startBtn"><span class="pixel-tri play-icon"></span> PLAY</button>
         </div>
 
         <div class="screen" id="browse">
-            <div class="back-hint">Esc to go back</div>
+            <div class="back-hint" style="font-size: 25px;">
+                Esc to go back
+                <div class="controls-hint" style="font-size: 25px;">
+                    <span><b>←/→</b> songs</span>
+                    <span><b>A/D</b> artists</span>
+                    <span><b>Space</b> play/pause</span>
+                </div>
+            </div>
 
             <div class="artist-side">
-                <button class="artist-arrow prev" id="artistPrev">◀</button>
+                <button class="artist-arrow prev" id="artistPrev"><span class="pixel-tri flip"></span></button>
                 <div class="swiper artist-swiper" id="artistSwiper"><div class="swiper-wrapper" id="artistWrapper"></div></div>
-                <button class="artist-arrow next" id="artistNext">▶</button>
+                <button class="artist-arrow next" id="artistNext"><span class="pixel-tri"></span></button>
             </div>
 
             <div class="song-side">
                 <div class="pick-label">PICK A SONG</div>
                 <div class="swiper song-swiper" id="songSwiper"><div class="swiper-wrapper" id="songWrapper"></div></div>
                 <div class="track-row">
-                    <button class="track-arrow" id="songPrev">◀</button>
+                    <button class="track-arrow" id="songPrev"><span class="pixel-tri flip"></span></button>
                     <div class="track-title" id="trackTitle">—</div>
-                    <button class="track-arrow" id="songNext">▶</button>
+                    <button class="track-arrow" id="songNext"><span class="pixel-tri"></span></button>
                 </div>
                 <div class="transport">
-                    <button class="play-btn" id="playBtn">▶ PLAY</button>
-                    <div class="bar-wrap"><div class="bar-fill" id="barFill"></div></div>
+                    <button class="play-btn" id="playBtn"><span class="pixel-tri play-icon"></span> PLAY</button>
+                    <div class="bar-wrap" id="barWrap"><div class="bar-fill" id="barFill"></div><div class="bar-thumb" id="barThumb"></div></div>
                 </div>
             </div>
         </div>

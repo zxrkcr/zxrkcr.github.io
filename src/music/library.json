@@ -1,0 +1,349 @@
+[
+  {
+    "artist": "Slayr",
+    "color": "#ff6a5c",
+    "photo": "/src/music/artists/slayr.webp",
+    "tracks": [
+      {
+        "title": "Boosted",
+        "cover": "/src/music/covers/slayr/Boosted.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Boosted.mp3"
+      },
+      {
+        "title": "Cycles 2",
+        "cover": "/src/music/covers/slayr/Cycles 2.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Cycles 2.mp3"
+      },
+      {
+        "title": "Flashout Freestyle",
+        "cover": "/src/music/covers/slayr/Flashout Freestyle.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Flashout Freestyle.mp3"
+      },
+      {
+        "title": "Hard Knock",
+        "cover": "/src/music/covers/slayr/Hard Knock.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Hard Knock.mp3"
+      },
+      {
+        "title": "JetSetRadio",
+        "cover": "/src/music/covers/slayr/JetSetRadio.webp",
+        "src": "/src/music/music/downloaded_music/slayr/JetSetRadio.mp3"
+      },
+      {
+        "title": "Never Go Down",
+        "cover": "/src/music/covers/slayr/Never Go Down.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Never Go Down.mp3"
+      },
+      {
+        "title": "Power 4",
+        "cover": "/src/music/covers/slayr/Power 4.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Power 4.mp3"
+      },
+      {
+        "title": "Set In Stone",
+        "cover": "/src/music/covers/slayr/Set In Stone.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Set In Stone.mp3"
+      },
+      {
+        "title": "Slayer World Tour 2077",
+        "cover": "/src/music/covers/slayr/Slayer World Tour 2077.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Slayer World Tour 2077.mp3"
+      },
+      {
+        "title": "Swervin",
+        "cover": "/src/music/covers/slayr/Swervin.webp",
+        "src": "/src/music/music/downloaded_music/slayr/Swervin.mp3"
+      },
+      {
+        "title": "i got taste",
+        "cover": "/src/music/covers/slayr/i got taste.webp",
+        "src": "/src/music/music/downloaded_music/slayr/i got taste.mp3"
+      },
+      {
+        "title": "keep me going (BIRDBRAIN)",
+        "cover": "/src/music/covers/slayr/keep me going (BIRDBRAIN).webp",
+        "src": "/src/music/music/downloaded_music/slayr/keep me going (BIRDBRAIN).mp3"
+      },
+      {
+        "title": "nova",
+        "cover": "/src/music/covers/slayr/nova.webp",
+        "src": "/src/music/music/downloaded_music/slayr/nova.mp3"
+      }
+    ]
+  },
+  {
+    "artist": "Yit",
+    "color": "#29c7ac",
+    "photo": "/src/music/artists/yit.webp",
+    "tracks": [
+      {
+        "title": "BALENCI ANGEL",
+        "cover": "/src/music/covers/yit/BALENCI ANGEL.webp",
+        "src": "/src/music/music/downloaded_music/yit/BALENCI ANGEL.mp3"
+      },
+      {
+        "title": "Globetrotter",
+        "cover": "/src/music/covers/yit/Globetrotter.webp",
+        "src": "/src/music/music/downloaded_music/yit/Globetrotter.mp3"
+      },
+      {
+        "title": "I'm a Model",
+        "cover": "/src/music/covers/yit/I'm a Model.webp",
+        "src": "/src/music/music/downloaded_music/yit/I'm a Model.mp3"
+      },
+      {
+        "title": "Miles",
+        "cover": "/src/music/covers/yit/Miles.webp",
+        "src": "/src/music/music/downloaded_music/yit/Miles.mp3"
+      },
+      {
+        "title": "Minaj",
+        "cover": "/src/music/covers/yit/Minaj.webp",
+        "src": "/src/music/music/downloaded_music/yit/Minaj.mp3"
+      },
+      {
+        "title": "burger music",
+        "cover": "/src/music/covers/yit/burger music.webp",
+        "src": "/src/music/music/downloaded_music/yit/burger music.mp3"
+      },
+      {
+        "title": "i want",
+        "cover": "/src/music/covers/yit/i want.webp",
+        "src": "/src/music/music/downloaded_music/yit/i want.mp3"
+      },
+      {
+        "title": "miss summer",
+        "cover": "/src/music/covers/yit/miss summer.webp",
+        "src": "/src/music/music/downloaded_music/yit/miss summer.mp3"
+      },
+      {
+        "title": "pvz",
+        "cover": "/src/music/covers/yit/pvz.webp",
+        "src": "/src/music/music/downloaded_music/yit/pvz.mp3"
+      },
+      {
+        "title": "shoot your shot",
+        "cover": "/src/music/covers/yit/shoot your shot.webp",
+        "src": "/src/music/music/downloaded_music/yit/shoot your shot.mp3"
+      }
+    ]
+  },
+  {
+    "artist": "Vax",
+    "color": "#4d6bff",
+    "photo": "/src/music/artists/vax.webp",
+    "tracks": [
+      {
+        "title": "AWOL",
+        "cover": "/src/music/covers/vax/AWOL.webp",
+        "src": "/src/music/music/downloaded_music/vax/AWOL.mp3"
+      },
+      {
+        "title": "Bobby S.",
+        "cover": "/src/music/covers/vax/Bobby S..webp",
+        "src": "/src/music/music/downloaded_music/vax/Bobby S..mp3"
+      },
+      {
+        "title": "PARADE",
+        "cover": "/src/music/covers/vax/PARADE.webp",
+        "src": "/src/music/music/downloaded_music/vax/PARADE.mp3"
+      },
+      {
+        "title": "Race (feat. slayr)",
+        "cover": "/src/music/covers/vax/Race (feat. slayr).webp",
+        "src": "/src/music/music/downloaded_music/vax/Race (feat. slayr).mp3"
+      },
+      {
+        "title": "buddy buddy",
+        "cover": "/src/music/covers/vax/buddy buddy.webp",
+        "src": "/src/music/music/downloaded_music/vax/buddy buddy.mp3"
+      },
+      {
+        "title": "rockefeller",
+        "cover": "/src/music/covers/vax/rockefeller.webp",
+        "src": "/src/music/music/downloaded_music/vax/rockefeller.mp3"
+      },
+      {
+        "title": "vax Round 2",
+        "cover": "/src/music/covers/vax/vax Round 2.webp",
+        "src": "/src/music/music/downloaded_music/vax/vax Round 2.mp3"
+      }
+    ]
+  },
+  {
+    "artist": "Lucy Bedroque",
+    "color": "#ff5ca8",
+    "photo": "/src/music/artists/lucy-bedroque.webp",
+    "tracks": [
+      {
+        "title": "006 FINESSAA",
+        "cover": "/src/music/covers/lucy-bedroque/006 FINESSAA.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/006 FINESSAA.mp3"
+      },
+      {
+        "title": "2010 Justin Bieber",
+        "cover": "/src/music/covers/lucy-bedroque/2010 Justin Bieber.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/2010 Justin Bieber.mp3"
+      },
+      {
+        "title": "520547-syxx-anthem-it-cant-be-helped",
+        "cover": "/src/music/covers/lucy-bedroque/520547-syxx-anthem-it-cant-be-helped.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/520547-syxx-anthem-it-cant-be-helped.mp3"
+      },
+      {
+        "title": "C SECTION",
+        "cover": "/src/music/covers/lucy-bedroque/C SECTION.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/C SECTION.mp3"
+      },
+      {
+        "title": "Fenty Face",
+        "cover": "/src/music/covers/lucy-bedroque/Fenty Face.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/Fenty Face.mp3"
+      },
+      {
+        "title": "G6 Anthem",
+        "cover": "/src/music/covers/lucy-bedroque/G6 Anthem.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/G6 Anthem.mp3"
+      },
+      {
+        "title": "HYDROXYCUT (TAKE IT ALL)",
+        "cover": "/src/music/covers/lucy-bedroque/HYDROXYCUT (TAKE IT ALL).webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/HYDROXYCUT (TAKE IT ALL).mp3"
+      },
+      {
+        "title": "INFINITUDE UROBOROS",
+        "cover": "/src/music/covers/lucy-bedroque/INFINITUDE UROBOROS.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/INFINITUDE UROBOROS.mp3"
+      },
+      {
+        "title": "Made In Italy",
+        "cover": "/src/music/covers/lucy-bedroque/Made In Italy.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/Made In Italy.mp3"
+      },
+      {
+        "title": "Mi Amor",
+        "cover": "/src/music/covers/lucy-bedroque/Mi Amor.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/Mi Amor.mp3"
+      },
+      {
+        "title": "Ouija",
+        "cover": "/src/music/covers/lucy-bedroque/Ouija.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/Ouija.mp3"
+      },
+      {
+        "title": "SPEED DEMON",
+        "cover": "/src/music/covers/lucy-bedroque/SPEED DEMON.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/SPEED DEMON.mp3"
+      },
+      {
+        "title": "dissociation of sisters wipe your tears",
+        "cover": "/src/music/covers/lucy-bedroque/dissociation of sisters wipe your tears.webp",
+        "src": "/src/music/music/downloaded_music/lucy-bedroque/dissociation of sisters wipe your tears.mp3"
+      }
+    ]
+  },
+  {
+    "artist": "Egobreak",
+    "color": "#a05cff",
+    "photo": "/src/music/artists/egobreak.webp",
+    "tracks": [
+      {
+        "title": "33darkchylde",
+        "cover": "/src/music/covers/egobreak/33darkchylde.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/33darkchylde.mp3"
+      },
+      {
+        "title": "Darling (feat. Lucy Bedroque)",
+        "cover": "/src/music/covers/egobreak/Darling (feat. Lucy Bedroque).webp",
+        "src": "/src/music/music/downloaded_music/egobreak/Darling (feat. Lucy Bedroque).mp3"
+      },
+      {
+        "title": "I GUESS I'M NAIVE",
+        "cover": "/src/music/covers/egobreak/I GUESS I'M NAIVE.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/I GUESS I'M NAIVE.mp3"
+      },
+      {
+        "title": "Snow Knows Best",
+        "cover": "/src/music/covers/egobreak/Snow Knows Best.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/Snow Knows Best.mp3"
+      },
+      {
+        "title": "Squad",
+        "cover": "/src/music/covers/egobreak/Squad.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/Squad.mp3"
+      },
+      {
+        "title": "Who Knows",
+        "cover": "/src/music/covers/egobreak/Who Knows.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/Who Knows.mp3"
+      },
+      {
+        "title": "genie",
+        "cover": "/src/music/covers/egobreak/genie.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/genie.mp3"
+      },
+      {
+        "title": "haunt le Haunted",
+        "cover": "/src/music/covers/egobreak/haunt le Haunted.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/haunt le Haunted.mp3"
+      },
+      {
+        "title": "mix it",
+        "cover": "/src/music/covers/egobreak/mix it.webp",
+        "src": "/src/music/music/downloaded_music/egobreak/mix it.mp3"
+      }
+    ]
+  },
+  {
+    "artist": "Ezcodylee",
+    "color": "#f2b705",
+    "photo": "/src/music/artists/ezcodylee.webp",
+    "tracks": [
+      {
+        "title": "ALBUM OF THE YEAR !",
+        "cover": "/src/music/covers/ezcodylee/ALBUM OF THE YEAR !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/ALBUM OF THE YEAR !.mp3"
+      },
+      {
+        "title": "FEEL ALIVE !",
+        "cover": "/src/music/covers/ezcodylee/FEEL ALIVE !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/FEEL ALIVE !.mp3"
+      },
+      {
+        "title": "HEY HO !",
+        "cover": "/src/music/covers/ezcodylee/HEY HO !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/HEY HO !.mp3"
+      },
+      {
+        "title": "MOSHPIT !",
+        "cover": "/src/music/covers/ezcodylee/MOSHPIT !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/MOSHPIT !.mp3"
+      },
+      {
+        "title": "RAP BETTER \uff0f ROCK HARDER !",
+        "cover": "/src/music/covers/ezcodylee/RAP BETTER \uff0f ROCK HARDER !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/RAP BETTER \uff0f ROCK HARDER !.mp3"
+      },
+      {
+        "title": "SHUT UP !",
+        "cover": "/src/music/covers/ezcodylee/SHUT UP !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/SHUT UP !.mp3"
+      },
+      {
+        "title": "STUNT HOUSE !",
+        "cover": "/src/music/covers/ezcodylee/STUNT HOUSE !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/STUNT HOUSE !.mp3"
+      },
+      {
+        "title": "TOUR !",
+        "cover": "/src/music/covers/ezcodylee/TOUR !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/TOUR !.mp3"
+      },
+      {
+        "title": "WHO GOT A PROBLEM !",
+        "cover": "/src/music/covers/ezcodylee/WHO GOT A PROBLEM !.webp",
+        "src": "/src/music/music/downloaded_music/ezcodylee/WHO GOT A PROBLEM !.mp3"
+      }
+    ]
+  }
+]
